@@ -1,0 +1,12 @@
+{
+    "system" : {
+        "extensions" : [
+            {
+                "name": "ageGate",
+                "resolve": "extensions/agegate",
+                "enabled": true,
+                "priority": 10
+            }
+        ]
+    }
+}
